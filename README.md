@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Wireframe
+### Wireframe
 
 https://www.figma.com/file/e2SGJizsZcBgEQsIk0pGde/Training?node-id=0%3A1&t=UTCDu8t0rOEOomzA-0
 
