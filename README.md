@@ -2,13 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### Wireframe
 
 https://www.figma.com/file/e2SGJizsZcBgEQsIk0pGde/Training?node-id=0%3A1&t=UTCDu8t0rOEOomzA-0
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
