@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Wireframe
+
+https://www.figma.com/file/e2SGJizsZcBgEQsIk0pGde/Training?node-id=0%3A1&t=UTCDu8t0rOEOomzA-0
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,7 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Wireframe
-https://www.figma.com/file/e2SGJizsZcBgEQsIk0pGde/Training?node-id=0%3A1&t=UTCDu8t0rOEOomzA-0
-
