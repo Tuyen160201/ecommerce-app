@@ -16,7 +16,7 @@ const IconCart = () => {
               alt=""
             />
           </div>
-          <span className="cart-text tracking-normal">Giỏ Hàng</span>
+          <span className="cart__text">Giỏ Hàng</span>
         </div>
       </NavLink>
     </div>

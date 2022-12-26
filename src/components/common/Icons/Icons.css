@@ -63,3 +63,7 @@
   max-width: 100%;
   border-style: none;
 }
+
+.cart__text {
+  letter-spacing: 0em;
+}
