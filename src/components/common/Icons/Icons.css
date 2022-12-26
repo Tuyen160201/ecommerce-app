@@ -1,0 +1,65 @@
+.icon-login {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  width: 162px;
+  cursor: pointer;
+  color: white;
+}
+
+.login__container {
+  display: flex;
+  flex-direction: column;
+}
+
+.login__content {
+  font-size: 11px;
+}
+
+.login__account {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+.login__link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.icon-cart {
+  position: relative;
+  display: block;
+}
+
+.cart__link {
+  text-decoration-line: none;
+  background-color: transparent;
+}
+
+.cart__content {
+  align-items: flex-end;
+  width: 94px;
+  cursor: pointer;
+  margin: 0 0 0 1rem;
+  display: flex;
+  cursor: pointer;
+  color: white;
+  font-size: 12px;
+  position: relative;
+  letter-spacing: 0.7px;
+}
+
+.cart__wrapper {
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+}
+
+.cart__image {
+  width: 2rem;
+  height: 2rem;
+  max-width: 100%;
+  border-style: none;
+}
