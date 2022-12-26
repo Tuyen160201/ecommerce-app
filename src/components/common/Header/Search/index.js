@@ -21,7 +21,7 @@ const Search = () => {
         <input
           className='search__input'
           type='text'
-          placeholder='Tìm sản phẩm, danh mục hay thương hiệu mong muốn ...'
+          placeholder='Tìm sản phẩm, danh mục hay thương hiệu mong muốn...'
           value={value}
           onChange={onChange}
         />
