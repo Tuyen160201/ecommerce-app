@@ -6,6 +6,7 @@
     "productPrice": 1000,
     "productPercentSale": 10,
     "productRating": 5,
+    "quantity": 34,
     "detail": [
       { "RAM": 4, "storage": 64, "color": "#ff0000", "price": 100 },
       { "RAM": 4, "storage": 64, "color": "#000000", "price": 100 },
@@ -21,7 +22,8 @@
     "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
     "productPrice": 1000,
     "productPercentSale": 10,
-    "productRating": 4.5
+    "productRating": 4.5,
+    "quantity": 3
   },
   {
     "id": 3,
@@ -29,7 +31,8 @@
     "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/3/_/3_225.jpg",
     "productPrice": 1000,
     "productPercentSale": 10,
-    "productRating": 4
+    "productRating": 4,
+    "quantity": 15
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
     "productPrice": 1000,
     "productPercentSale": 10,
-    "productRating": 3.5
+    "productRating": 3.5,
+    "quantity": 12
   },
   {
     "id": 5,
@@ -45,7 +49,8 @@
     "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/3/_/3_225.jpg",
     "productPrice": 1000,
     "productPercentSale": 10,
-    "productRating": 3
+    "productRating": 3,
+    "quantity": 7
   },
   {
     "id": 6,
@@ -53,7 +58,8 @@
     "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
     "productPrice": 1000,
     "productPercentSale": 10,
-    "productRating": 2.5
+    "productRating": 2.5,
+    "quantity": 20
   },
   {
     "id": 7,
@@ -61,7 +67,8 @@
     "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/3/_/3_225.jpg",
     "productPrice": 1000,
     "productPercentSale": 10,
-    "productRating": 2
+    "productRating": 2,
+    "quantity": 9
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
     "productPrice": 1000,
     "productPercentSale": 10,
-    "productRating": 1.5
+    "productRating": 1.5,
+    "quantity": 9
   },
   {
     "id": 9,
@@ -77,6 +85,88 @@
     "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
     "productPrice": 1000,
     "productPercentSale": 10,
-    "productRating": 1
+    "productRating": 1,
+    "quantity": 5
+  },
+  {
+    "id":  10,
+    "productName": "Redmi note 11",
+    "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
+    "productPrice": 1000,
+    "productPercentSale": 10,
+    "productRating": 1,
+    "quantity": 5
+  },
+  {
+    "id": 11,
+    "productName": "Redmi note 11",
+    "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
+    "productPrice": 1000,
+    "productPercentSale": 10,
+    "productRating": 1,
+    "quantity": 5
+  },
+  {
+    "id": 12,
+    "productName": "Redmi note 11",
+    "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
+    "productPrice": 1000,
+    "productPercentSale": 10,
+    "productRating": 1,
+    "quantity": 5
+  },
+  {
+    "id": 13,
+    "productName": "Redmi note 11",
+    "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
+    "productPrice": 1000,
+    "productPercentSale": 10,
+    "productRating": 1,
+    "quantity": 5
+  },
+  {
+    "id": 14,
+    "productName": "Redmi note 11",
+    "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
+    "productPrice": 1000,
+    "productPercentSale": 10,
+    "productRating": 1,
+    "quantity": 5
+  },
+  {
+    "id": 15,
+    "productName": "Redmi note 11",
+    "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
+    "productPrice": 1000,
+    "productPercentSale": 10,
+    "productRating": 1,
+    "quantity": 5
+  },
+  {
+    "id": 16,
+    "productName": "Redmi note 11",
+    "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
+    "productPrice": 1000,
+    "productPercentSale": 10,
+    "productRating": 1,
+    "quantity": 5
+  },
+  {
+    "id": 17,
+    "productName": "Redmi note 11",
+    "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
+    "productPrice": 1000,
+    "productPercentSale": 10,
+    "productRating": 1,
+    "quantity": 5
+  },
+  {
+    "id": 18,
+    "productName": "Redmi note 11",
+    "productImg": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_2_18.png",
+    "productPrice": 1000,
+    "productPercentSale": 10,
+    "productRating": 1,
+    "quantity": 5
   }
 ]

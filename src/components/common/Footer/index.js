@@ -46,7 +46,7 @@ const Footer = () => {
           </h4>
           <div className="about__store">
             <a className="about__link" href="/#">
-              Giới thiệu về Super Fresh
+              Giới thiệu về Happy Store
             </a>
             <a className="about__link" href="/#">
               Liên hệ
